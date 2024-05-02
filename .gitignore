@@ -1,0 +1,7 @@
+# Ignore les fichiers médias
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png

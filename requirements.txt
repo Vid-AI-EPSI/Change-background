@@ -6,14 +6,13 @@ moviepy==1.0.3
 nltk==3.8.1
 numpy==1.26.4
 opencv_python==4.9.0.80
-Pillow==9.5.0
 Pillow==10.3.0
 PyMatting==1.1.12
 Requests==2.31.0
 scipy==1.13.0
 selenium==4.20.0
 setuptools==68.2.2
-skimage==0.0
+scikit-image==0.18.3
 torch==2.3.0
 torchvision==0.18.0
 waitress==3.0.0
